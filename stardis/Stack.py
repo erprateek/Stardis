@@ -1,3 +1,5 @@
+from stardis import Stack
+
 class Stack:
     class Node:
         def __init__(self,object,Next):

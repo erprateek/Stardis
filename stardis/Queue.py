@@ -1,3 +1,5 @@
+from stardis import Queue
+
 class Queue:
     class Node:
         def __init__(self,object,Next):

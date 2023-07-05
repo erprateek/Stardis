@@ -1,3 +1,5 @@
+from stardis import BinaryTree
+
 class BinaryTree:
     class Node:
         def __init__(self,value):
